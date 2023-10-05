@@ -16,11 +16,12 @@
 - Deep Learning (Learning)
 - Interested in **CV, NLP,LLM**
 
+
+
 ## Stats
 
 <a href="https://github.com/Aiichemist/Aiichemist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist&show_icons=true&line_height=27&count_private=true&title_color=333&text_color=777" alt="Aiichemist's GitHub Stats" /></a>
-<a href="https://github.com/Aiichemist/Aiichemist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist&show_icons=true&line_height=27&count_private=true&title_color=333&text_color=777" alt="Aiichemist's GitHub Stats" /></a><a href="https://github.com/Aiichemist/Aiichemist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiichemist&langs_count=10&layout=compact&exclude_repo=aiichemist.github.io" alt="Aiichemist's GitHub Stats" /></a>
 
 ## Languages and Tools
@@ -51,4 +52,3 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="40"/>
 </a>
 </p>
-
