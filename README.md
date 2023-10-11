@@ -41,7 +41,6 @@
   <a href='https://markdown.com.cn/'>
   <img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" alt="Markdown" height="40"/> 
 </a>
-  https://www.vectorlogo.zone/logos/markdown-here/index.html
 <a href='https://jupyter.org/'>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" height="40"/> 
 </a>
