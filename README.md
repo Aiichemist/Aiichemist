@@ -1,6 +1,6 @@
 # Hey, I'm Aiichemist
 
-## About ME
+## About Me
 
 - I'm Aiichemist
   -  An undergraduate student majoring in artificial intelligence at Chongqing University
