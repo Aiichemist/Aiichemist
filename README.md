@@ -19,6 +19,7 @@
 
 
 ## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiichemist&hide_progress=true)
 
 <a href="https://github.com/Aiichemist/Aiichemist">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiichemist&langs_count=10&layout=compact&exclude_repo=aiichemist.github.io" alt="Aiichemist's GitHub Stats" /></a>
