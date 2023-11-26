@@ -20,7 +20,7 @@
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiichemist&hide_progress=true)
-
+![Aiichemist](https://github-readme-stats.vercel.app/api?username=Aiichemist\&rank_icon=github)
 ## Languages and Tools
 
 <p align="center">
