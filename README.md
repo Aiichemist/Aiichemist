@@ -11,7 +11,7 @@
 
 ## Skill & Interest
   
-  - Languages：Python, C++, Html+CSS+JS, Java, SQL, LaTeX, Markdown
+  - Languages：Python, C++, Java, SQL, LaTeX, Markdown
   - Machine learning (but naive)
   - DL,RL(Learning)
   - Interested in **CV, NLP,LLM**
