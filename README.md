@@ -32,9 +32,9 @@
 <a href="https://github.com/Aiichemist">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiichemist&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
-
+<a href="https://github.com/Aiichemist">
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
+</a>
   
 
 ## Languages and Tools
