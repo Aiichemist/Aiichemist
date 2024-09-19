@@ -26,7 +26,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aiichemist/Aiichemist/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="256" height="400" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="256" title="Do what you like, and do it best!">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiichemist&hide_progress=true&card_width=500)
   
