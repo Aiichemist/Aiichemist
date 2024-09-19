@@ -13,7 +13,9 @@
   
   - Languages：Python, C++, Java, SQL, LaTeX, Markdown
   - Machine Learning
-  - DL,RL(Learning)
+  - Deep Learning
+  - Reinforcement learning
+  - Robot
   - Interested in **CV, NLP, LLM**
 
 <picture>
