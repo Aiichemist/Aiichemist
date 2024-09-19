@@ -1,5 +1,7 @@
 # Hey, I'm Aiichemist
 
+![Peek 2020-07-09 15-53](https://github.com/Aiichemist/Aiichemist/raw/master/header.gif)
+
 ## About Me
   
   - I'm Aiichemist:
