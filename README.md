@@ -26,6 +26,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aiichemist/Aiichemist/output/github-contribution-grid-snake.svg">
 </picture>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiichemist&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiichemist&layout=compact)
