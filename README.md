@@ -27,14 +27,14 @@
 </picture>
 
 <a href="https://github.com/Aiichemist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist&include_all_commits=true&show_icons=true" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist&include_all_commits=true&show_icons=true" />
 </a>
 <a href="https://github.com/Aiichemist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiichemist&layout=compact&langs_count=8&card_width=320" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiichemist&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <a href="https://github.com/Aiichemist">
-  <img height=250 align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" >
+  <img height=220 align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" >
 </a>
   
 
