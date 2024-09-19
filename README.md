@@ -39,6 +39,8 @@
 
 ## Languages and Tools
 
+---
+
 <p align="left">
   <a href='https://www.python.org/'>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="40"/>
@@ -75,9 +77,9 @@
   <a href='https://code.visualstudio.com/'>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual-Studio-Code" height="40"/> 
   </a>
-
 </p>
-  <p align="center">
+<p align="left">
+  
   <a href='https://markdown.com.cn/'>
     <img src="https://www.vectorlogo.zone/logos/markdown-here/markdown-here-icon.svg" alt="Markdown" height="40"/> 
   </a>
@@ -117,6 +119,4 @@
   <a href='https://www.docker.com/'>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="40"/>
   </a>
-
-  
 </p>
