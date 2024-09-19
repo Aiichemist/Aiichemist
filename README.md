@@ -27,7 +27,7 @@
 </picture>
 
 <a href="https://github.com/Aiichemist">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist&include_all_commits=true&show_icons=true" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Aiichemist&include_all_commits=true&rank_icon=github" />
 </a>
 <a href="https://github.com/Aiichemist">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aiichemist&layout=compact&langs_count=8&card_width=320" />
