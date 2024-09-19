@@ -1,6 +1,4 @@
-# Hey, I'm Aiichemist
-
-![Peek 2020-07-09 15-53](header.gif)
+![Aiichemist](header.gif)
 
 ## About Me
   
