@@ -10,11 +10,12 @@
 
 ## Skill & Interest
 
-  - Languages：Python, C++, Java, SQL, LaTeX, Markdown
-  - Machine Learning
-  - Deep Learning
-  - Reinforcement learning
-  - Robot
+  - Languages:Python, C++, Java, SQL, LaTeX, Markdown
+  - AI:
+    - Machine Learning
+    - Deep Learning
+    - Reinforcement learning
+  - ROS
   - Interested in **CV, NLP, LLM**
 
 
