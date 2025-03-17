@@ -15,7 +15,6 @@
     - Machine Learning
     - Deep Learning
     - Reinforcement learning
-  - ROS
   - Interested in **CV, NLP, LLM**
 
 
